@@ -1,1 +1,1 @@
-# tensorflow-mac
+# tensorflow-mac-M1
